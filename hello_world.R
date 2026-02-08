@@ -1,7 +1,6 @@
-<<<<<<< Updated upstream
+
 print('hello world')
-=======
-print('Hello, Universe')
+
 
 #volcabulary:
 
@@ -19,4 +18,3 @@ print('Hello, Universe')
 
 #main, branches
 
->>>>>>> Stashed changes
