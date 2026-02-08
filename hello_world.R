@@ -17,3 +17,7 @@ print('hello world')
 #Great! I will pull the repo now to look. At noon, I will clone your more recent commits.
 
 #main, branches
+
+#merge conflicts is painful. A solutin is to commit and push OFTEN
+
+#fork and clone repo, fork someone else' repo to my account, then clone to local repo
